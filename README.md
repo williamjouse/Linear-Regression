@@ -9,7 +9,7 @@
 ## Introduction 
 
 ----
-Linear regression is a linear approach for modelling the relationship between a scalar response and one or more explanatory 
+Linear regression is a linear approach for modeling the relationship between a scalar response and one or more explanatory 
 variables (also known as dependent and independent variables). In machine learning framework, linear regression algorithm 
 is one of the fundamental supervised machine-learning algorithms due to its relative simplicity and well-known properties. 
 In this repository, we archived some linear regression projects.
