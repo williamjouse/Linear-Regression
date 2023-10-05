@@ -1,6 +1,6 @@
 # Regression Models
 ---
-![img1.png](notebooks/figures/img1.png)
+![img1.png](notebooks/figures/fig1.png)
 
 ## Introduction 
 
