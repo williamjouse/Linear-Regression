@@ -1,5 +1,5 @@
 # Regression Models
----
+
 ![img1.png](notebooks/figures/fig1.png)
 
 ## Introduction 
